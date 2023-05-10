@@ -8,14 +8,14 @@
 
 - 💬 Ask me about **algorithms and development**
 
-- 📫 How to reach me **saintlucifer00210@gmail.com**
+- 📫 How to reach me **piyushdos00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-kumar-rai-bb3905221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-rai-bb3905221" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lucifer00210" target="_blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/codechef.png" alt="lucifer00210" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/iamhacker00210" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamhacker00210" height="30" width="40" /></a>
-<a href="https://leetcode.com/saintlucifer00210/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saintlucifer00210" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush-singh-2099b0191/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-rai-bb3905221" height="30" width="40" /></a>
+
+
+<a href="https://leetcode.com/Piyush_0007/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saintlucifer00210" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
